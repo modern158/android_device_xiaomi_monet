@@ -21,4 +21,4 @@ Camera  | 48 Mp + 8 Mp + 2 Mp + 2 Mp, 16 Mp F 2.25
 
 ## Device picture
 
-![Xiaomi Mi MI 10 Lite](https://www.powerplanetonline.com/cdnassets/xiaomi_mi_10_lite_5g_6gb_128gb_02_azul_ad_l.jpg "Xiaomi Mi MI 10 Lite")
+![Xiaomi Mi MI 10 Lite](https://www.bestmarkt.hu/img/main-1x1/640366-5e665.png "Xiaomi Mi MI 10 Lite")
